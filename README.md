@@ -1,1 +1,1 @@
-Awesome stuff for CSCI 331 at MSU.
+Personal projects including PAYDAY 2 Achievement Tracker.
